@@ -1,0 +1,47 @@
+{
+	"HeadOffice": "My Production",
+	"HeadOfficeLocation": "Barrie , Canada",
+	
+	"topDeals": [
+        {
+            "name": "A realistic dog pillow",
+			"price": 15,
+			"description": "enjoy the company of a furry friend",
+			"fectures": [
+				"Feel soft",
+				"Greate gift for dog lovers"
+				
+			
+			],
+			"image": "realistic-dog-pillow.jpg"
+        },
+           {
+            "name": "A cat carrier dress",
+			"price": 17,
+			"description": "Bringing your cat around in a plastic carrier is so passé.",
+			"fectures": [
+				"Good Quality",
+				"Greate gift for cat lover",
+				"Looks Good"
+				
+			],
+			"image": "cat-carrier-dress.jpeg"
+        },
+           {
+            "name": "A Nicolas Cage sequin pillowcase",
+			"price": 25,
+			"description": "The only thing better than a festive red sparkly pillowcase",
+			"fectures": [
+				" satisfying ",
+				"Bright Color",
+				"Good decoration for bedroom"
+				
+			],
+			"image": "nicolas-cage-pillow.jpg"
+        }
+	]
+}
+
+
+
+
